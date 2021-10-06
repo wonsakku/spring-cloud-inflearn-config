@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000 # 24hr * 60min * 60sec * 1000millis
-  secret: user_token_ecommerce_is_changed
+  secret: user_token_ecommerce_is_changed_twice
 
 gateway:
   ip: 192.168.1.1
