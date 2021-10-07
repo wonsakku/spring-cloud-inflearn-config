@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000 # 24hr * 60min * 60sec * 1000millis
-  secret: my-token-prod
+  secret: my-token-prod-changed
 
 gateway:
   ip: 192.168.1.1
